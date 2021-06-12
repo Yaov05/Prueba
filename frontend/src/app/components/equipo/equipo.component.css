@@ -1,0 +1,15 @@
+p {
+    color: darkslategrey;
+    font-size: x-large;
+}
+
+q {
+    color:floralwhite;
+    font-size: medium;
+}
+
+ol {
+    color:cornflowerblue;
+    font-size: xx-large;
+    text-align: right;
+}
